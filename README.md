@@ -15,4 +15,4 @@ This is a GAN, Generative Adverserial Network used to generate hand written digi
 
 **4) [Character Generating RNN](https://github.com/yashk2000/BolleRenverse/blob/master/characterGeneratingRNN/charRNN.ipynb)**
 
-This is a RNN which generates sentences character by character after being trained on a input text which in this case is *Percy Jackson and the Last Olympian*. It requires an input prime, which can be a single string or a collction of strings and generates senetences using those word/s.
+This is a RNN which generates sentences character by character after being trained on a input text which in this case is *Percy Jackson and the Last Olympian*. It requires an input prime, which can be a single string or a collection of strings and generates sentences using those word/s.
