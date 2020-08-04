@@ -16,3 +16,7 @@ This is a GAN, Generative Adverserial Network used to generate hand written digi
 **4) [Character Generating RNN](https://github.com/yashk2000/BolleRenverse/blob/master/characterGeneratingRNN/charRNN.ipynb)**
 
 This is a RNN which generates sentences character by character after being trained on a input text which in this case is *Percy Jackson and the Last Olympian*. It requires an input prime, which can be a single string or a collection of strings and generates sentences using those word/s.
+
+**5) [Diner Dash using reinforcement learning](https://github.com/yashk2000/BolleRenverse/blob/master/DinerDash.ipynb)**
+
+[Diner dash](https://github.com/AdaCompNUS/diner-dash-simulator) is a game in which the player has to run a restaurant in a way to keep maximum customers happy. This is an attempt to play the game using reinforcement leanring using Stable Basline functions. This solution uses [ACER(Actor-Critic with Experience Replay)](https://arxiv.org/abs/1611.01224).
